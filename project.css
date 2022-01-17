@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+}
+div{
+    color: white;
+    margin: 150px 600px;
+    font-size: 25px;
+    font-family: cursive;
+}
